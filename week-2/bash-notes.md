@@ -7,5 +7,7 @@
 7. ls -la - detaljan ispis sadrzaja trenutnog direktorija, ukljucujuci i hidden fajlove
 8. find [starting-location] [conditions]: browse for directories and files under certain conditions, e.g. 
 find . -type f -size 1033c // search through and print out all files in current directory that are 1033 bytes in size
- 
+find . // search starting from current directory
+find / // search starting from root directory 
+2>/dev/null // find parametar kojim se preskace ispisivanje gresaka radi bolje preglednosti
 
