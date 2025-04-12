@@ -10,4 +10,7 @@ find . -type f -size 1033c // search through and print out all files in current 
 find . // search starting from current directory
 find / // search starting from root directory 
 2>/dev/null // find parametar kojim se preskace ispisivanje gresaka radi bolje preglednosti
+9. sort // slicno komandi 'ls -l' s tim sto ispisuje svaku stavku u posebnoj liniji koda po abecednom redu
+10. uniq // brise duplikate
+11. | // pipeline- uvezuje komande na nacin da ispis komande prije pipelinea se koristi kao input za komandu poslije istog
 
