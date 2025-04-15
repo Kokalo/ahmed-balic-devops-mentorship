@@ -14,4 +14,4 @@ find / // search starting from root directory
 10. uniq // brise duplikate
 11. | // pipeline- uvezuje komande na nacin da ispis komande prije pipelinea se koristi kao input za komandu poslije istog
 12. strings 'filename'- reads out all printable characters (readable)
-
+13. grep- advanced search tool
