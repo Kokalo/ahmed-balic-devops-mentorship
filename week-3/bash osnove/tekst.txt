@@ -1,0 +1,6 @@
+Ovo je testni fajl.
+Sadrži nekoliko linija teksta.
+Neka riječ se pojavljuje ovdje.
+Još jedna linija sa nekom riječju.
+Bez te riječi ovdje.
+I opet neka riječ.

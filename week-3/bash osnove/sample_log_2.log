@@ -1,0 +1,22 @@
++--------------------------------------------------------------------------------+
+|0001:61:01.0: 9010: Cache data associated with attached devices cannot be found |
+|-----Current Configuration-----                                                 |
+|Cache Directory Card Information:                                               |
+|Vendor/Product ID: IBM     5703001                                              |
+|    Serial Number: 03060038                                                     |
+|              WWN: 5005076C03023F00                                             |
+|Adapter Card Information:                                                       |
+|Vendor/Product ID: IBM     5703001                                              |
+|    Serial Number: 03060038                                                     |
+|              WWN: 5005076C03023F00                                             |
+|-----Expected Configuration-----                                                |
+|Cache Directory Card Information:                                               |
+|Vendor/Product ID:                                                              |
+|    Serial Number:                                                              |
+|              WWN: 0000000000000000                                             |
+|Adapter Card Information:                                                       |
+|Vendor/Product ID: IBM     5703001                                              |
+|    Serial Number: 03060038                                                     |
+|              WWN: 5005076C03023F00                                             |
+|Additional IOA Data: 00000000 00000000 152101D0                                 |
++--------------------------------------------------------------------------------+
