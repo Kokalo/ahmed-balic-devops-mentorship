@@ -1,0 +1,5 @@
+Broj 12 je paran
+Broj 23 je neparan
+Broj 34 je paran
+Broj 45 je neparan
+Broj 56 je paran

@@ -1,0 +1,3 @@
+#!/bin/bash 
+
+find . -name "*.sh" -mtime -7 -exec stat -c '%n %s bytes %y' {} \;
